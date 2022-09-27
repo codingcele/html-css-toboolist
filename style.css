@@ -91,3 +91,40 @@ header {
     font-weight: bold;
     color: rgb(59, 59, 59);
 }
+
+.sub {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.check {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    color: green;
+    border: 1px solid green;
+    font-size: 10px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.text {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.cate {
+    box-sizing: border-box;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    font-size: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.edit {
+    width: 60px;
+    background-color:rgb(90, 78, 247);
+}
